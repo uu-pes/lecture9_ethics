@@ -1,4 +1,4 @@
-# 1DT106 Lecture 10: Ethics
+# 1DT106 Lecture 9: Ethics
 
 This repository holds the slides for the tenth lecture in 1DT106 Programming
 Embedded Systems at Uppsala University. 
